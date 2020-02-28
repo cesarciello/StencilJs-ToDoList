@@ -24,7 +24,7 @@ To build the component for production, run:
 npm run build
 ```
 
-![Alt text](./img/img1.png "Principal") ![Alt text](./img/img2.png "Change Values")
+![Alt text](./img/img1.jpg "Principal") ![Alt text](./img/img2.jpg "Change Values")
 
 
 ## Using this component
